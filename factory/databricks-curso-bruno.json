@@ -1,0 +1,9 @@
+{
+	"name": "databricks-curso-bruno",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64af6458-0bf2-46d6-a7a5-85ecd3322590",
+		"tenantId": "e7966648-b436-4b1d-a226-eb60e9fc6d05"
+	}
+}
